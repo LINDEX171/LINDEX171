@@ -52,7 +52,7 @@
     <img width="40" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/vuejs-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/illustrator-cc.svg"/>
+    <img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/oracle.svg"/>
 </div>
