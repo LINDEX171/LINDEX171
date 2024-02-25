@@ -1,15 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=lindex171&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
 
 # 💫 About Me:
 🧑‍💻 Développeur Web/Mobile<br>🛍️ Projet en cours: Application Mobile de shopping  <br>🔍Domaines d'Intérêt :Applications Web Applications Mobiles (iOS et Android)   <br>💻Collab:je suis ouvert à toute sorte de projet mobile ou web  <br>🙌🏾Fun fact: J'aime partager mes connaissances et apprendre quelque chose de nouveau
 
 
 ## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:lindex171@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 # 💻 Tech Stack:
