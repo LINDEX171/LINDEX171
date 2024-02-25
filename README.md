@@ -1,4 +1,5 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LINDEX171.LINDEX171)
+[![](https://visitcount.itsvg.in/api?id=lindex171&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
