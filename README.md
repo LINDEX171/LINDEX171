@@ -21,8 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:lindex171@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
-# 💻 Tech Stack:
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Tech%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>
 
 <div align="center">
     <img width="40" src="https://cdn.svgporn.com/logos/html-5.svg"/>
@@ -37,7 +36,8 @@
     <img width="40" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/jenkins.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
- <img width="40" src="https://cdn.svgporn.com/logos/selenium.svg"/>
+    <img width="40" src="https://cdn.svgporn.com/logos/selenium.svg"/>
+    <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
  </div>
  <div align="center">
     <img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
@@ -50,9 +50,7 @@
     <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/photoshop.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/oracle.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/sass.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/heroku.svg"/>
