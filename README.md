@@ -37,6 +37,7 @@
     <img width="40" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/jenkins.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
+ <img width="40" src="https://cdn.svgporn.com/logos/selenium.svg"/>
  </div>
  <div align="center">
     <img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
@@ -45,16 +46,16 @@
     <img width="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/arduino.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/netlify.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/chartjs.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/photoshop.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/oracle.svg"/>
+    <img width="40" src="https://cdn.svgporn.com/logos/sass.svg"/>
+    <img width="40" src="https://cdn.svgporn.com/logos/heroku.svg"/>
  </div>
 
 # 📊 GitHub Stats:
