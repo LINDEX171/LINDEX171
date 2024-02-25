@@ -16,11 +16,10 @@
 # 💫 About Me:
 🧑‍💻 Développeur Web/Mobile<br>🛍️ Projet en cours: Application Mobile de shopping  <br>🔍Domaines d'Intérêt :Applications Web Applications Mobiles (iOS et Android)   <br>💻Collab:je suis ouvert à toute sorte de projet mobile ou web  <br>🙌🏾Fun fact: J'aime partager mes connaissances et apprendre quelque chose de nouveau
 
-<div>
-
-<p align="center"><img src="https://img.shields.io/badge/Tech%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>
-</div>
 <div align="center">
+<p align="center"><img src="https://img.shields.io/badge/Tech%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>
+
+
     <img width="40" src="https://cdn.svgporn.com/logos/html-5.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/css-3.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
