@@ -1,4 +1,5 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LINDEX171.LINDEX171&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LINDEX171.LINDEX171)
+
 
 
 
