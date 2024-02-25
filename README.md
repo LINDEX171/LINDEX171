@@ -37,6 +37,8 @@
     <img width="40" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/jenkins.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
+ </div>
+ <div align="center">
     <img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
@@ -46,16 +48,14 @@
     <img width="40" src="https://cdn.svgporn.com/logos/chartjs.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/canva.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/dot-net.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/vuejs-icon.svg"/>
+    <img width="40" src="https://cdn.svgporn.com/logos/photoshop.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/oracle.svg"/>
-</div>
+ </div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lindex171&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
