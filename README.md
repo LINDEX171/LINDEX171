@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h1 {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+ 
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lindex171/count.svg" />
