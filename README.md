@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🧑‍💻 Développeur Web/Mobile<br>🚘 Projet en cours: Application de Parc automobile  <br>🔍Domaines d'Intérêt :Applications Web Applications Mobiles (iOS et Android)   <br>💻Collab:je suis ouvert à toute sorte de projet mobile ou web  <br>🙌🏾Fun fact: J'aime partager mes connaissances et apprendre quelque chose de nouveau
+🧑‍💻 Web/Mobile Developer<br>🚘 Current Project: Car Fleet Management Application<br>🔍Areas of Interest: Web Applications, Mobile Applications (iOS and Android)<br>💻Collab: I'm open to any kind of web or mobile project<br>🙌🏾Fun fact: I love sharing my knowledge and learning something new
 
 
 <br/>
