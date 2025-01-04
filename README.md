@@ -69,6 +69,7 @@
 
 
 
+![Snake animation](https://github.com/lindex171/lindex171/raw/output/snake.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
