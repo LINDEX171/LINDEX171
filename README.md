@@ -12,9 +12,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ibrahima+Dieng!;&color=000000" />
 </h1>
 
-### Let's connect 🌐
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==)
 
+### Let's connect 🌐
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:lindex171@gmail.com)
