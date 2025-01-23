@@ -63,12 +63,21 @@
  </div>
 
 # 📊 GitHub Stats:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==)
+![](https://github-readme-stats.vercel.app/api?username=lindex171&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lindex171&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindex171&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lindex171&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lindex171&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindex171&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<p align="center"><img src="https://img.shields.io/badge/Social%20Media-21618C?style=for-the-badge"/></p>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:lindex171@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
 
-<p align="center"><img src="https://img.shields.io/badge/Social%20Media-21618C?style=for-the-badge"/></p>
+
 
