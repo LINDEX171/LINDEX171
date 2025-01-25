@@ -14,6 +14,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:lindex171@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==](https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 # 💫 About Me:
 🧑‍💻 Web/Mobile Developer<br>🚘 Current Project: SchoolBus track<br>🔍Areas of Interest: Web Applications, Mobile Applications (iOS and Android)<br>💻Collab: I'm open to any kind of web or mobile project<br>🙌🏾Fun fact: I love sharing my knowledge and learning something new
