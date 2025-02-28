@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-🧑‍💻 Web/Mobile Developer<br>🏠 Current Project:[Kalmane BTP](https://kalmane-btp.com)<br>🔍Areas of Interest: Web Applications, Mobile Applications (iOS and Android)<br>💻Collab: I'm open to any kind of web or mobile project<br>🙌🏾Fun fact: I love sharing my knowledge and learning something new
+🧑‍💻 Web/Mobile Developer<br>🏠 Current Project: [Kalmane BTP](https://kalmane-btp.com)<br>🔍Areas of Interest: Web Applications, Mobile Applications (iOS and Android)<br>💻Collab: I'm open to any kind of web or mobile project<br>🙌🏾Fun fact: I love sharing my knowledge and learning something new
 
 
 <br/>
