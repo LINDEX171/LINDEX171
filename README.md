@@ -1,7 +1,4 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lindex171/count.svg" />
-</p>
+
 
 
 <h1 align="center" style="color: black;">
