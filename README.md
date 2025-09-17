@@ -55,9 +55,7 @@
     <img width="40" src="https://cdn.svgporn.com/logos/heroku.svg"/>
  </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lindex171&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lindex171&theme=dark&hide_border=false)<br/>
+
 
 
 ---
