@@ -24,7 +24,6 @@
 
 <div align="center">
     <img width="40" src="https://cdn.svgporn.com/logos/html-5.svg"/>
-    <img width="40" src="https://cdn.svgporn.com/logos/css-3.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
     <img width="40" src="https://cdn.svgporn.com/logos/laravel.svg"/>
